@@ -1,0 +1,13 @@
+* {
+  background-color: rgb(215, 216, 148);
+}
+button {
+  color: black;
+}
+button:hover {
+  color: white;
+}
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 100;
+}

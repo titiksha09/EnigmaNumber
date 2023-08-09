@@ -1,0 +1,15 @@
+* {
+  background-color: rgb(74, 85, 143);
+}
+h1 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+}
+textarea {
+  background-color: white;
+  align-items: center;
+  margin-left: 40%;
+  margin-right: 40%;
+}
